@@ -7,5 +7,5 @@ mykey.pub
 *.tfstate.backup
 .terraform.tfstate.lock.info
 .DS_Store
-
+.gitignore  
 .terraform.lock.hcl
