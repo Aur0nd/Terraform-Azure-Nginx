@@ -1,6 +1,5 @@
 *.terraform
 *.main*
-terraform.tfvars
 mykey
 mykey.pub
 *.tfstate
